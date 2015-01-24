@@ -7,3 +7,5 @@ Citation: Robertson JC, Hurley N, Tortorici M, Ciossani G, Borrello MT, Vellore 
 Contributors: James C. Robertson, Victor H. Rusu, and Nate Hurley
 
 Developed in the lab of Riccardo Baron, University of Utah College of Pharmacy, Department of Medicinal Chemistry, 2013
+
+Website with more info and tutorial: http://home.chpc.utah.edu/~u0749266/DSV/
